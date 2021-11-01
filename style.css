@@ -1,0 +1,50 @@
+
+body{
+	margin:0;
+    padding:0;
+	font-size:16px; 
+	font-family: 'Work Sans', sans-serif;
+  
+}
+section{
+    margin-top: 20px;
+}
+.container{
+    margin:auto;
+    width: 1150px;
+}
+.row{
+    margin-top: 20px;
+}
+  
+  .mt-5{
+      margin-top: 20px;
+  
+  }
+ 
+  #webdesign{
+  background-image: url("web.jpg");
+  background-repeat: no-repeat;
+  background-position: center canter; 
+  width: 100%;
+  background-size: cover;
+  height: 60vh;
+  color: #f5f5f5;
+  margin:auto;
+  margin-top: 50px;
+  }
+  .btn-primary ms-5{
+      margin-left: 50px;
+  }
+  .list-unstyled li a{
+      text-decoration: none; 
+  }
+  .text-muted {
+    color: #6c757d!important;
+    padding-bottom: 15px;
+}
+
+a {
+    color: #0d6efd;
+    text-decoration: none;
+}
